@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elisa-palacino-gonzalez.github.io/sitemap.xml
